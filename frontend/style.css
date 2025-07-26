@@ -1,0 +1,15 @@
+#chat-container {
+  width: 400px;
+  margin: 50px auto;
+  font-family: Arial;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
+#chat-box {
+  height: 300px;
+  overflow-y: scroll;
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 10px;
+}
